@@ -47,9 +47,3 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mrlima4095/mrlima4095/output/snake.svg" alt="Snake animation" />
-
-###
