@@ -6,7 +6,6 @@ You can click the Preview link to take a look at your changes.
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Lima
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrlima4095&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrlima4095&stroke=ffffff&background=1c1310&ring=ef4444&fire=ef4444&currStreakNum=ff4601&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
 </div>
 
@@ -19,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 - 🚀 **Current Project:** [OpenTTY J2ME](http://github.com/mrlima4095/OpenTTY-J2ME)  
 - 🧠 **Learning:** C#, PHP, and Golang  
 - 👥 **Collaboration:** Application development and J2ME project preservation  
-- 💬 **Ask me about:** "Future is now"
 
 ---
 
