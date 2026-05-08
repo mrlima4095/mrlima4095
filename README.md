@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 - ✉️ **Contact:** [felipebr4095@gmail.com](mailto:felipebr4095@gmail.com)  
 - 🚀 **Current Project:** [OpenTTY J2ME](http://github.com/mrlima4095/OpenTTY-J2ME)  
 - 🧠 **Learning:** C#, PHP, and Golang  
-- 👥 **Collaboration:** Application development and J2ME project preservation  
+- 👥 **Collaboration:** Web development and J2ME project preservation  
 
 ---
 
