@@ -6,10 +6,14 @@ You can click the Preview link to take a look at your changes.
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Lima
 
 <div align="center">
-  
-![](https://streak-stats.demolab.com/?user=mrlima4095&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mrlima4095&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <table>
+    <tr>
+      <td><img src="https://streak-stats.demolab.com/?user=mrlima4095&theme=dark&hide_border=false" alt="Streak Stats"></td>
+      <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mrlima4095&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs"></td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
